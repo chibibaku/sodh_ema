@@ -9,7 +9,7 @@ repo内の内容は全て編集中
 ### Developer
 - @chibibaku1
 - @jhkim0328
-- @ke-n-go
+- ~~@ke-n-go~~ → @kengo2003
 - @ryoma2345
 
 ### Files and features
